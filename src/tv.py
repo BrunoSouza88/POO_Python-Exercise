@@ -19,3 +19,4 @@ class TV:
 
     def get_volume(self) -> int:
         pass
+
